@@ -43,7 +43,7 @@ All hands-on coding is hosted in Kaggle notebooks. Find links here:
 
 ## 💡 Why This Matters
 
-This course supports my broader 10-week [**Embedded Intelligence**](https://github.com/jenshannon/embedded-intelligence) project, where I’m building an AI-powered RAG system for technical knowledge navigation. The learnings here feed directly into that larger exploration.
+This course supports my broader 10-week [**Embedded Intelligence**](https://github.com/shannonjen/embedded-intelligence) project, where I’m building an AI-powered RAG system for technical knowledge navigation. The learnings here feed directly into that larger exploration.
 
 ---
 
