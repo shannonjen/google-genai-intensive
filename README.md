@@ -10,7 +10,7 @@ As a technical enablement leader exploring GenAI, Retrieval-Augmented Generation
 
 - Deepen my understanding of foundational GenAI concepts
 - Practice implementing real-world GenAI tools and workflows
-- Reflect on how these tools apply to technical onboarding, knowledge delivery, and learning strategy
+- Reflect on how these tools apply to technical onboarding, knowledge management, and learning strategy
 
 This is a **"learning in public"** space. Expect raw notes, questions, and iterative improvements.
 
