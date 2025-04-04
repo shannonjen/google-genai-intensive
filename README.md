@@ -23,7 +23,7 @@ This is a **"learning in public"** space. Expect raw notes, questions, and itera
 | 1   | Foundational Models & Prompt Engineering | ✅ In Progress | [Day 1 Notes](./day1_foundations/reflections.md) |
 | 2   | Embeddings & Vector Databases        | ✅ In Progres | [Day 2 Notes](./day2_embeddings/reflections.md) |
 | 3   | Generative AI Agents                 | ✅ In Progres | [Day 3 Notes](./day3_agents/reflections.md) |
-| 4   | Domain-Specific LLMs (e.g., SecLM)   | ⏳ Upcoming   | [Day 4 Notes](./day4_domain_llms/reflections.md) |
+| 4   | Domain-Specific LLMs (e.g., SecLM)   | ✅ In Progres | [Day 4 Notes](./day4_domain_llms/reflections.md) |
 | 5   | MLOps for GenAI                      | ⏳ Upcoming   | [Day 5 Notes](./day5_mlops/reflections.md) |
 
 ---
